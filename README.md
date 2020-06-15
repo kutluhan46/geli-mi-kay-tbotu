@@ -1,1 +1,1 @@
-# geli-mi-kay-tbotu
+# The Darking Gelişmiş Kayıt Botu Altyapısı 
